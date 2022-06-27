@@ -6,7 +6,7 @@
 
 ## connect with me:
 [![website](./images/website.png)](https://alidevep01.github.io/myPortfolio-/)
-[![linkedin](./images/linkedin.gif)](https://www.linkedin.com/in/mohammad-ali-front-end-developer/)
+[![linkedin](./images/linkedin.png)](https://www.linkedin.com/in/mohammad-ali-front-end-developer/)
 [![instagram](./images/instagram.png)](https://www.instagram.com/mohdali144/)
 [![facebook](./images/facebook.png)](https://www.facebook.com/SILENTRULER/)
 
