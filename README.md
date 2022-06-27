@@ -5,8 +5,12 @@
 [![Website](https://img.shields.io/badge/MohammadAli-Front--End%20Developer-red?style=for-the-badge&logo=appveyor)](https://alidevep01.github.io/myPortfolio-/)
 
 ## connect with me:
-[![website](./images/linkedin.png)](https://alidevep01.github.io/myPortfolio-/)
-[![website](./images/linkedin.png)](https://alidevep01.github.io/myPortfolio-/)
+[![website](./images/website.png)](https://alidevep01.github.io/myPortfolio-/)
+[![linkedin](./images/linkedin.png)](https://www.linkedin.com/in/mohammad-ali-front-end-developer/)
+[![instagram](./images/instagram.png)](https://www.instagram.com/mohdali144/)
+[![facebook](./images/facebook.png)](https://www.facebook.com/SILENTRULER/)
+
+
 
 
 
@@ -34,6 +38,8 @@ img
 <br />
 
 [website]: https://alidevep01.github.io/myPortfolio-/
-[website]: www.youtube.com
+[linkedin]: https://www.linkedin.com/in/mohammad-ali-front-end-developer/
+[instagram]: https://www.instagram.com/mohdali144/
+[facebook]: https://www.facebook.com/SILENTRULER/
 
 
