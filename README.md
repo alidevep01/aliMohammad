@@ -5,6 +5,8 @@
 [![Website](https://img.shields.io/badge/MohammadAli-Front--End%20Developer-red?style=for-the-badge&logo=appveyor)](https://alidevep01.github.io/myPortfolio-/)
 
 ## connect with me:
+[![website](./img/globe-light.svg)](https://alidevep01.github.io/myPortfolio-/)
+[![website](./img/globe-dark.svg)](https://alidevep01.github.io/myPortfolio-/)
 
 
 
