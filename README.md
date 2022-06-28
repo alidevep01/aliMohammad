@@ -1,7 +1,7 @@
 # Hi there, I'm [Mohammad Ali][website] 👋 
 
-![ezgif com-gif-maker (6)](https://user-images.githubusercontent.com/57377203/176015626-d8c3a490-9f7a-4a85-a8f0-4dc42692c2cf.gif)'
-<img src=""
+
+<img src="./images/website.gif" width="400px" height="400px"/>
 <img src="./images/code.gif" width="400px" height="400px"/>
 <br  />
 [![Website](https://img.shields.io/badge/MohammadAli-Front--End%20Developer-red?style=for-the-badge&logo=appveyor)](https://alidevep01.github.io/myPortfolio-/)
